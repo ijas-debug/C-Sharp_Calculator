@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\CalculatorPgm\bin\Debug\net6.0\CalculatorPgm.exe
+C:\Users\IJAS\source\repos\CalculatorPgm\bin\Debug\net6.0\CalculatorPgm.deps.json
+C:\Users\IJAS\source\repos\CalculatorPgm\bin\Debug\net6.0\CalculatorPgm.runtimeconfig.json
+C:\Users\IJAS\source\repos\CalculatorPgm\bin\Debug\net6.0\CalculatorPgm.dll
+C:\Users\IJAS\source\repos\CalculatorPgm\bin\Debug\net6.0\CalculatorPgm.pdb
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.dll
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\refint\CalculatorPgm.dll
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.pdb
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\CalculatorPgm.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\CalculatorPgm\obj\Debug\net6.0\ref\CalculatorPgm.dll
